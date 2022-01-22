@@ -7,5 +7,5 @@ This is a fork of the twentyfifteen theme for the Panoptic Webpage.
 ### Desktop:
 ![img.png](img.png)
 
-###Mobile:
+### Mobile:
 ![img_1.png](img_1.png)
